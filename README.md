@@ -11,6 +11,8 @@ The Hospitality Management System is a comprehensive Java application designed t
 - **Graphical User Interface**: A professional and user-friendly interface for an enhanced user experience.
 - **Audit Log**: Tracks all changes made within the system, providing a detailed history of actions for compliance and monitoring.
 - **Encryption**: Sensitive information, such as guest details and passwords, is encrypted to ensure data security.
+- **Prepared Statements**: Used prepared statements to prevents SQL Injection Attacks.
+
 
 ## Technologies Used
 - **Programming Language**: Java 21
