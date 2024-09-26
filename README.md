@@ -48,9 +48,9 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 
 ## Acknowledgements
-  Spring Boot
-  Maven
-  Java Cryptography Extension
+- Spring Boot
+- Maven
+- Java Cryptography Extension
 
 ## License
 
