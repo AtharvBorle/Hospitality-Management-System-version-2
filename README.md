@@ -24,29 +24,42 @@ The Hospitality Management System is a comprehensive Java application designed t
    git clone https://github.com/your-username/hospitality-management-system.git
    
 2. Navigate to the project directory:
+   ```bash
    cd hospitality-management-system
    
-3. Build the project using Maven:
+4. Build the project using Maven:
+   ```bash
    mvn clean install
    
-4. Run the application:
+6. Run the application:
+   ```bash
    mvn spring-boot:run
 
 ## Usage
-Open the application and log in as a manager or admin.
-Navigate through the interface to manage guests, reservations, and rooms.
-Audit logs can be accessed through the admin panel for monitoring actions taken within the system.
+
+- **Hotel Management**: Navigate to the Hotel Management section to add or edit hotel details.
+- **Room Management**: Access the Room Management section to manage room details, types, and availability.
+- **Guest Management**: Register new guests or update existing guest information.
+- **Reservation Management**: Make new reservations, update existing ones, or cancel bookings.
+- **Audit Logs**: Audit logs can be accessed through the admin panel for monitoring actions taken within the system.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bugs you encounter.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
   Spring Boot
   Maven
   Java Cryptography Extension
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any inquiries, you can reach me at:
+- **Email**: atharvbborle@gmail.com
 
 
   
